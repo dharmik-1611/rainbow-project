@@ -1,6 +1,5 @@
 this is a rainbow project
-
-
+this is a unique branch of rainbow project and here i am adding some unknown colors.
 this is new branch unicorn 
 rainbow includes following colors
  --green
@@ -9,5 +8,6 @@ rainbow includes following colors
  --pink
  --white
  --sky
- 
+ --cyan
+ --majenta
  this is a unicorn branch
