@@ -5,3 +5,4 @@ rainbow includes following colors
  --red 
  --yellow
  --pink
+ --white
