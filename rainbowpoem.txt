@@ -6,3 +6,4 @@ rainbow includes following colors
  --yellow
  --pink
  --white
+ --sky
