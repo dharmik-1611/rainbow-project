@@ -1,0 +1,7 @@
+this is a rainbow project
+
+rainbow includes following colors
+ --green
+ --red 
+ --yellow
+ --pink
