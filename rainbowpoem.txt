@@ -10,7 +10,7 @@ rainbow includes following colors
  --sky
  --cyan
  --majenta
- 
+ today is fantastic friday
  --fork color
  this is a unicorn branch
 
