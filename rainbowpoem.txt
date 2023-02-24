@@ -11,6 +11,7 @@ rainbow includes following colors
  --cyan
  --majenta
  today is fantastic friday
+ and tomorrow we have a hackthone of .net projects
  --fork color
  this is a unicorn branch
 
