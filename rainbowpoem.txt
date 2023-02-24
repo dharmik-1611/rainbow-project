@@ -11,7 +11,7 @@ rainbow includes following colors
  --cyan
  --majenta
  today is fantastic friday
- and tomorrow we have a hackthone of .net projects
+ and tomorrow we have a hackthone of .net projects and i want to learn sql
  --fork color
  this is a unicorn branch
 
